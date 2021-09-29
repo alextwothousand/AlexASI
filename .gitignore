@@ -555,3 +555,8 @@ fabric.properties
 *.out
 *.app
 
+cmake-dbg-msvc32/
+cmake-dbg-msvc64/
+
+cmake-rel-msvc32/
+cmake-rel-msvc64/
