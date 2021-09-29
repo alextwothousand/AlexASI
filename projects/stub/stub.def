@@ -1,0 +1,10 @@
+EXPORTS
+    DirectInput8Create = stub_DirectInput8Create
+
+    DllCanUnloadNow = stub_DllCanUnloadNow
+    DllGetClassObject = stub_DllGetClassObject
+
+    DllRegisterServer = stub_DllRegisterServer
+    DllUnregisterServer = stub_DllUnregisterServer
+
+    GetdfDIJoystick = stub_GetdfDIJoystick

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="ReleaseMsvc32" ENABLED="true" GENERATION_DIR="cmake-rel-msvc32" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio" />
+      <configuration PROFILE_NAME="DebugMsvc32" ENABLED="true" GENERATION_DIR="cmake-dbg-msvc32" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio" />
+      <configuration PROFILE_NAME="ReleaseMsvc64" ENABLED="true" GENERATION_DIR="cmake-rel-msvc64" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio x86_64" />
+      <configuration PROFILE_NAME="DebugMsvc64" ENABLED="true" GENERATION_DIR="cmake-dbg-msvc64" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio x86_64" />
+    </configurations>
+  </component>
+</project>
